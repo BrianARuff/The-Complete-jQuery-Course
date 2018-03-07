@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3bf384d-de87-4f67-b9ef-3d0a01d75ac5" name="Default" comment="">
+      <change beforePath="" afterPath="$USER_HOME$/RoR/Next-Level-Rails" />
+      <change beforePath="" afterPath="$USER_HOME$/RoR/store" />
+      <change beforePath="$USER_HOME$/Gemfile" afterPath="" />
+      <change beforePath="$USER_HOME$/Gemfile.lock" afterPath="" />
+      <change beforePath="$USER_HOME$/README.md" afterPath="" />
+      <change beforePath="$USER_HOME$/Rakefile" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/config/manifest.js" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/images/.keep" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/images/arrow-left.png" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/images/arrow-right.png" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/images/blackcentermic.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/images/city.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/images/goldmic.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/images/inspire-gold.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/images/inspire.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/images/logo.png" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/images/mic.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/images/morrislogo.png" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/images/morrislogo2.png" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/images/nightcity.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/images/poster.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/images/race.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/images/rightmic.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/images/rm1.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/images/rm2.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/images/rm3.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/images/rm4.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/images/rm5.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/images/rm6.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/images/road.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/images/robertmorris.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/javascripts/application.js" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/javascripts/bookings.coffee" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/javascripts/books.coffee" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/javascripts/cable.js" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/javascripts/channels/.keep" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/javascripts/load_images.coffee" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/javascripts/quote_of_the_days.coffee" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/javascripts/reviews.coffee" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/javascripts/speakings.coffee" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/javascripts/static_pages.coffee" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/stylesheets/application.scss" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/stylesheets/bookings.scss" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/stylesheets/books.scss" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/stylesheets/load_images.scss" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/stylesheets/quote_of_the_days.scss" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/stylesheets/reviews.scss" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/stylesheets/scaffolds.scss" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/stylesheets/speakings.scss" afterPath="" />
+      <change beforePath="$USER_HOME$/app/assets/stylesheets/static_pages.scss" afterPath="" />
+      <change beforePath="$USER_HOME$/app/channels/application_cable/channel.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/channels/application_cable/connection.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/controllers/application_controller.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/controllers/bookings_controller.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/controllers/books_controller.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/controllers/concerns/.keep" afterPath="" />
+      <change beforePath="$USER_HOME$/app/controllers/load_images_controller.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/controllers/quote_of_the_days_controller.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/controllers/reviews_controller.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/controllers/speakings_controller.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/controllers/static_pages_controller.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/helpers/application_helper.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/helpers/bookings_helper.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/helpers/books_helper.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/helpers/load_images_helper.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/helpers/quote_of_the_days_helper.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/helpers/reviews_helper.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/helpers/speakings_helper.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/helpers/static_pages_helper.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/jobs/application_job.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/mailers/application_mailer.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/mailers/user_mailer.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/models/application_record.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/models/book.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/models/booking.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/models/concerns/.keep" afterPath="" />
+      <change beforePath="$USER_HOME$/app/models/load_image.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/models/quote_of_the_day.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/models/review.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/models/speaking.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/models/user.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/uploaders/book_image_uploader.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/uploaders/image_uploader.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/bookings/_booking.json.jbuilder" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/bookings/_form.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/bookings/edit.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/bookings/index.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/bookings/index.json.jbuilder" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/bookings/new.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/bookings/show.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/bookings/show.json.jbuilder" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/books/_book.json.jbuilder" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/books/_form.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/books/edit.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/books/index.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/books/index.json.jbuilder" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/books/new.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/books/show.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/books/show.json.jbuilder" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/devise/confirmations/new.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/devise/mailer/confirmation_instructions.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/devise/mailer/email_changed.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/devise/mailer/password_change.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/devise/mailer/reset_password_instructions.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/devise/mailer/unlock_instructions.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/devise/passwords/edit.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/devise/passwords/new.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/devise/registrations/edit.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/devise/registrations/new.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/devise/sessions/new.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/devise/shared/_links.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/devise/unlocks/new.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/layouts/_nav.html.haml" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/layouts/application.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/layouts/mailer.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/layouts/mailer.text.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/load_images/_form.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/load_images/_load_image.json.jbuilder" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/load_images/edit.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/load_images/index.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/load_images/index.json.jbuilder" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/load_images/new.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/load_images/show.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/load_images/show.json.jbuilder" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/quote_of_the_days/_form.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/quote_of_the_days/_quote_of_the_day.json.jbuilder" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/quote_of_the_days/edit.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/quote_of_the_days/index.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/quote_of_the_days/index.json.jbuilder" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/quote_of_the_days/new.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/quote_of_the_days/show.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/quote_of_the_days/show.json.jbuilder" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/reviews/_form.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/reviews/_review.json.jbuilder" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/reviews/edit.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/reviews/index.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/reviews/index.json.jbuilder" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/reviews/new.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/reviews/show.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/reviews/show.json.jbuilder" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/speakings/_form.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/speakings/_speaking.json.jbuilder" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/speakings/edit.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/speakings/index.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/speakings/index.json.jbuilder" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/speakings/new.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/speakings/show.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/speakings/show.json.jbuilder" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/static_pages/about.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/static_pages/ce.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/static_pages/contact.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/static_pages/home.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/static_pages/keynote.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/static_pages/rebac.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/static_pages/rebi.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/static_pages/videos.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/static_pages/wcr.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/app/views/user_mailer/welcome_email.html.erb" afterPath="" />
+      <change beforePath="$USER_HOME$/bin/bundle" afterPath="" />
+      <change beforePath="$USER_HOME$/bin/rails" afterPath="" />
+      <change beforePath="$USER_HOME$/bin/rake" afterPath="" />
+      <change beforePath="$USER_HOME$/bin/setup" afterPath="" />
+      <change beforePath="$USER_HOME$/bin/spring" afterPath="" />
+      <change beforePath="$USER_HOME$/bin/update" afterPath="" />
+      <change beforePath="$USER_HOME$/bin/yarn" afterPath="" />
+      <change beforePath="$USER_HOME$/colorprofile" afterPath="" />
+      <change beforePath="$USER_HOME$/config.ru" afterPath="" />
+      <change beforePath="$USER_HOME$/config/application.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/config/boot.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/config/cable.yml" afterPath="" />
+      <change beforePath="$USER_HOME$/config/database.yml" afterPath="" />
+      <change beforePath="$USER_HOME$/config/environment.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/config/environments/development.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/config/environments/production.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/config/environments/test.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/config/initializers/application_controller_renderer.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/config/initializers/assets.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/config/initializers/backtrace_silencers.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/config/initializers/carrierwave.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/config/initializers/cookies_serializer.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/config/initializers/devise.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/config/initializers/filter_parameter_logging.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/config/initializers/inflections.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/config/initializers/mime_types.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/config/initializers/wrap_parameters.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/config/locales/devise.en.yml" afterPath="" />
+      <change beforePath="$USER_HOME$/config/locales/en.yml" afterPath="" />
+      <change beforePath="$USER_HOME$/config/puma.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/config/routes.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/config/secrets.yml" afterPath="" />
+      <change beforePath="$USER_HOME$/config/spring.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/db/migrate/20180123173229_devise_create_users.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/db/migrate/20180124183630_create_bookings.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/db/migrate/20180125120130_create_speakings.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/db/migrate/20180125120305_add_users_to_speakings.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/db/migrate/20180127021445_add_values_to_bookings.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/db/migrate/20180127031314_add_date_to_bookings.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/db/migrate/20180127032342_add_time_to_bookings.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/db/migrate/20180131062208_add_booking_date_to_bookings.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/db/migrate/20180131072627_add_stuff_to_speakings.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/db/migrate/20180203234314_add_role_users.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/db/migrate/20180204065844_add_image_to_users.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/db/migrate/20180204070725_create_load_images.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/db/migrate/20180204101158_add_image_to_load_images.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/db/migrate/20180204105854_add_user_id_to_load_images.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/db/migrate/20180205160715_create_quote_of_the_days.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/db/migrate/20180205222705_create_books.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/db/migrate/20180206023047_add_book_images_to_books.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/db/migrate/20180206024419_add_book_values_to_books.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/db/migrate/20180217014517_create_reviews.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/db/migrate/20180217020904_add_show_to_reviews.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/db/schema.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/db/seeds.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/lib/assets/.keep" afterPath="" />
+      <change beforePath="$USER_HOME$/lib/tasks/.keep" afterPath="" />
+      <change beforePath="$USER_HOME$/log/.keep" afterPath="" />
+      <change beforePath="$USER_HOME$/package.json" afterPath="" />
+      <change beforePath="$USER_HOME$/public/404.html" afterPath="" />
+      <change beforePath="$USER_HOME$/public/422.html" afterPath="" />
+      <change beforePath="$USER_HOME$/public/500.html" afterPath="" />
+      <change beforePath="$USER_HOME$/public/apple-touch-icon-precomposed.png" afterPath="" />
+      <change beforePath="$USER_HOME$/public/apple-touch-icon.png" afterPath="" />
+      <change beforePath="$USER_HOME$/public/favicon.ico" afterPath="" />
+      <change beforePath="$USER_HOME$/public/images/star-half.png" afterPath="" />
+      <change beforePath="$USER_HOME$/public/images/star-off.png" afterPath="" />
+      <change beforePath="$USER_HOME$/public/images/star-on.png" afterPath="" />
+      <change beforePath="$USER_HOME$/public/robots.txt" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/book/book_five/1/html5-css3.jpeg" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/book/book_five/2/html5-css3.jpeg" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/book/book_five/3/html5-css3.jpeg" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/book/book_four/1/web-accessibility.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/book/book_four/2/web-accessibility.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/book/book_four/3/web-accessibility.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/book/book_one/1/javascript-jquery.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/book/book_one/2/javascript-jquery.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/book/book_one/3/javascript-jquery.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/book/book_three/1/ui-ux.jpeg" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/book/book_three/2/ui-ux.jpeg" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/book/book_three/3/ui-ux.jpeg" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/book/book_two/1/rails.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/book/book_two/2/rails.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/book/book_two/3/rails.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/load_image/image/2/mic.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/load_image/image/4/bighouse.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/load_image/image/5/bighouse2.jpeg" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/tmp/1517741882-22389-0001-6093/datepicker.png" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/tmp/1517742139-22389-0002-0905/datepicker.png" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/tmp/1517742156-22389-0003-7599/contact-phone.png" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/tmp/1517742297-22389-0004-0467/contact-phone.png" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/tmp/1517742321-22389-0005-0755/contact-phone.png" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/tmp/1517742363-22389-0006-4157/contact-phone.png" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/tmp/1517742372-22389-0007-3076/Info.png" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/tmp/1517742440-22389-0008-6806/Info.png" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/tmp/1517742446-22389-0009-1589/edit.png" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/tmp/1517742450-22389-0010-6202/edit.png" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/tmp/1517892635-17672-0001-1496/rails.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/tmp/1517892635-17672-0002-4286/javascript-jquery.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/tmp/1517892635-17672-0003-8064/html5-css3.jpeg" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/tmp/1517892635-17672-0004-4822/ui-ux.jpeg" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/tmp/1517892635-17672-0005-5785/web-accessibility.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/tmp/1517892788-17672-0006-6181/rails.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/tmp/1517892788-17672-0007-3362/javascript-jquery.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/tmp/1517892788-17672-0008-1195/html5-css3.jpeg" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/tmp/1517892788-17672-0009-5639/ui-ux.jpeg" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/tmp/1517892788-17672-0010-2150/web-accessibility.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/tmp/1517892906-19673-0001-9146/rails.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/tmp/1517892906-19673-0002-9831/javascript-jquery.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/tmp/1517892906-19673-0003-4023/html5-css3.jpeg" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/tmp/1517892906-19673-0004-5883/ui-ux.jpeg" afterPath="" />
+      <change beforePath="$USER_HOME$/public/uploads/tmp/1517892906-19673-0005-0034/web-accessibility.jpg" afterPath="" />
+      <change beforePath="$USER_HOME$/test/application_system_test_case.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/test/controllers/.keep" afterPath="" />
+      <change beforePath="$USER_HOME$/test/controllers/bookings_controller_test.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/test/controllers/books_controller_test.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/test/controllers/load_images_controller_test.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/test/controllers/quote_of_the_days_controller_test.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/test/controllers/reviews_controller_test.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/test/controllers/speakings_controller_test.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/test/controllers/static_pages_controller_test.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/test/fixtures/.keep" afterPath="" />
+      <change beforePath="$USER_HOME$/test/fixtures/bookings.yml" afterPath="" />
+      <change beforePath="$USER_HOME$/test/fixtures/books.yml" afterPath="" />
+      <change beforePath="$USER_HOME$/test/fixtures/files/.keep" afterPath="" />
+      <change beforePath="$USER_HOME$/test/fixtures/load_images.yml" afterPath="" />
+      <change beforePath="$USER_HOME$/test/fixtures/quote_of_the_days.yml" afterPath="" />
+      <change beforePath="$USER_HOME$/test/fixtures/reviews.yml" afterPath="" />
+      <change beforePath="$USER_HOME$/test/fixtures/speakings.yml" afterPath="" />
+      <change beforePath="$USER_HOME$/test/fixtures/users.yml" afterPath="" />
+      <change beforePath="$USER_HOME$/test/helpers/.keep" afterPath="" />
+      <change beforePath="$USER_HOME$/test/integration/.keep" afterPath="" />
+      <change beforePath="$USER_HOME$/test/mailers/.keep" afterPath="" />
+      <change beforePath="$USER_HOME$/test/mailers/previews/user_mailer_preview.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/test/mailers/user_mailer_test.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/test/models/.keep" afterPath="" />
+      <change beforePath="$USER_HOME$/test/models/book_test.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/test/models/booking_test.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/test/models/load_image_test.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/test/models/quote_of_the_day_test.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/test/models/review_test.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/test/models/speaking_test.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/test/models/user_test.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/test/system/.keep" afterPath="" />
+      <change beforePath="$USER_HOME$/test/system/bookings_test.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/test/system/books_test.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/test/system/load_images_test.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/test/system/quote_of_the_days_test.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/test/system/reviews_test.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/test/system/speakings_test.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/test/test_helper.rb" afterPath="" />
+      <change beforePath="$USER_HOME$/tmp/.keep" afterPath="" />
+      <change beforePath="$USER_HOME$/vendor/.keep" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/base/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="910">
+              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/base/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="3" column="33" lean-forward="false" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/base/index.html" />
+        <option value="$PROJECT_DIR$/base/js/script.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="960" />
+    <option name="y" value="24" />
+    <option name="width" value="960" />
+    <option name="height" value="993" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code style issuesCSS</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
+            <id>Pug/Jade</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jQuery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jQuery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jQuery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jQuery" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jQuery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jQuery" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jQuery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="jQuery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="jquery-1.12.3" type="70bed36:NamedLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="SearchEverywhereHistoryKey" value="indent 2&#9;null&#9;null&#10;indent&#9;ACTION&#9;AutoIndentLines&#10;theme&#9;ACTION&#9;MTDarkerTheme&#10;softwr&#9;ACTION&#9;EditorGutterToggleGlobalSoftWraps&#10;soft wrap&#9;ACTION&#9;EditorGutterToggleGlobalSoftWraps" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jQuery/base/index.html" />
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3bf384d-de87-4f67-b9ef-3d0a01d75ac5" name="Default" comment="" />
+      <created>1520421277113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520421277113</updated>
+      <workItem from="1520421278310" duration="6976000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6976000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="960" y="24" width="960" height="993" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17289221" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32912844" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/base/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="2276" column="42" lean-forward="true" selection-start-line="2276" selection-start-column="42" selection-end-line="2276" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3245">
+          <caret line="2234" column="4" lean-forward="false" selection-start-line="2234" selection-start-column="4" selection-end-line="2234" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="910">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="33" lean-forward="false" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
